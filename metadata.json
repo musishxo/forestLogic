@@ -1,0 +1,5 @@
+{
+  "name": "ForestLogic: Loan Decision Visualizer",
+  "description": "An interactive Random Forest demonstration visualizing loan approval decision boundaries, voting mechanisms, and surrogate rule extraction using a toy dataset.",
+  "requestFramePermissions": []
+}
